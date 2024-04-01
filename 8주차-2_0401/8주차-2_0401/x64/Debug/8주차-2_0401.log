@@ -1,0 +1,4 @@
+﻿  0401.cpp
+0401.obj : error LNK2019: "public: __cdecl Time::Time(int,int)" (??0Time@@QEAA@HH@Z)main 함수에서 참조되는 확인할 수 없는 외부 기호
+0401.obj : error LNK2019: "public: void __cdecl Time::print(void)" (?print@Time@@QEAAXXZ)main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\원수민\Desktop\c프로그래밍_c++\8주차-2_0401\x64\Debug\8주차-2_0401.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
