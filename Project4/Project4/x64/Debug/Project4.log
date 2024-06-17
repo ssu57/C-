@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\user\Desktop\C프로그래밍_sm\Project4\Project4\소스.cpp(42,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\C프로그래밍_sm\Project4\Project4\소스.cpp(52,11): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\C프로그래밍_sm\Project4\Project4\소스.cpp(62,12): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project4.vcxproj -> C:\Users\user\Desktop\C프로그래밍_sm\Project4\x64\Debug\Project4.exe
